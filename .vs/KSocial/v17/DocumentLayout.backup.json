@@ -1,0 +1,1620 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KSocial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KSocial\\KSocial.Data\\Migrations\\20251011162147_idk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KSocial.Data\\Migrations\\20251011162147_idk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\navigation\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\navigation\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AD\\OneDrive\\Documents\\KSocial\\KSocial.Data\\Migrations\\20250829080732_SecondTry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KSocial\\KSocial\\KSocial.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KSocial\\KSocial.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KSocial\\KSocial.Data\\Migrations\\20250604110933_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KSocial.Data\\Migrations\\20250604110933_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\storiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\storiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\notificationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\notificationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\migrations\\20250829081238_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\migrations\\20250829081238_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\filesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\filesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\viewcomponents\\hashtagsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\viewcomponents\\hashtagsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\viewmodels\\authentication\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\viewmodels\\authentication\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\friends\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\friends\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\home\\_post.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\home\\_post.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\components\\stories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\components\\stories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\wwwroot\\uploads\\stories\\5d7932ea-8641-44f8-b3d8-4a9f578e5c40.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\wwwroot\\uploads\\stories\\5d7932ea-8641-44f8-b3d8-4a9f578e5c40.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\home\\_postdeleteconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\home\\_postdeleteconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\notifications\\_notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\notifications\\_notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\favorites\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\favorites\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\wwwroot\\uploads\\stories\\1dfdf3f4-de1d-48a3-9f09-140692b3b89d.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\wwwroot\\uploads\\stories\\1dfdf3f4-de1d-48a3-9f09-140692b3b89d.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\wwwroot\\uploads\\profiles\\db1ecdd4-ea2c-4b64-a5b9-062e836b4d61.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\wwwroot\\uploads\\profiles\\db1ecdd4-ea2c-4b64-a5b9-062e836b4d61.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\wwwroot\\uploads\\profiles\\c4be08de-1c3e-486e-a977-e0ee27e23aa5.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\wwwroot\\uploads\\profiles\\c4be08de-1c3e-486e-a977-e0ee27e23aa5.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\wwwroot\\uploads\\posts\\5b406a57-d15b-4db2-8f30-bc7a2b5e83f2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\wwwroot\\uploads\\posts\\5b406a57-d15b-4db2-8f30-bc7a2b5e83f2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\hashtagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\hashtagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\dtos\\getnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\dtos\\getnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\dtos\\userwithfriendscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\dtos\\userwithfriendscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\viewcomponents\\storiesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\viewcomponents\\storiesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\viewcomponents\\suggestedfriendsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\viewcomponents\\suggestedfriendsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\wwwroot\\css\\tailwind.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\wwwroot\\css\\tailwind.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\controllers\\friendscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\controllers\\friendscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\modals\\_createstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\modals\\_createstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\navigation\\_topbaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\navigation\\_topbaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\modals\\_createstory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\modals\\_createstory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\navigation\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\navigation\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\components\\suggestedfriends\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\components\\suggestedfriends\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\shared\\components\\hashtags\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\shared\\components\\hashtags\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\interfaces\\ifriendsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\interfaces\\ifriendsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\friendsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\friendsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\helpers\\constants\\friendshipstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\helpers\\constants\\friendshipstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\wwwroot\\js\\uikit.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\wwwroot\\js\\uikit.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|d:\\ksocial\\ksocial\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}|KSocial\\KSocial.csproj|solutionrelative:ksocial\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\helpers\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\helpers\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\helpers\\constants\\customclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\helpers\\constants\\customclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\helpers\\constants\\approles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\helpers\\constants\\approles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\helpers\\constants\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\helpers\\constants\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\ksocial.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\ksocial.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\interfaces\\istoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\interfaces\\istoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\interfaces\\ipostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\interfaces\\ipostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\helpers\\enums\\imagefiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\helpers\\enums\\imagefiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\interfaces\\inotificationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\interfaces\\inotificationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\interfaces\\ihashtagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\interfaces\\ihashtagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\interfaces\\ifilesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\interfaces\\ifilesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\helpers\\hashtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\helpers\\hashtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\models\\friendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\models\\friendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\models\\hashtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\models\\hashtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|d:\\ksocial\\ksocial.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DF026A-C487-4DA4-935E-7266CC611CE0}|KSocial.Data\\KSocial.Data.csproj|solutionrelative:ksocial.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251011162147_idk.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Migrations\\20251011162147_idk.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Migrations\\20251011162147_idk.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Migrations\\20251011162147_idk.cs",
+              "RelativeToolTip": "KSocial.Data\\Migrations\\20251011162147_idk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:21:47.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Program.cs",
+              "RelativeDocumentMoniker": "KSocial\\Program.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\Program.cs",
+              "RelativeToolTip": "KSocial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:36:58.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "KSocial\\Controllers\\NotificationsController.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "KSocial\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:08:30.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "KSocial\\Controllers\\SettingsController.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "KSocial\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:09:11.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "KSocial\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "KSocial\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:50:30.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "KSocial\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "KSocial\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:02:19.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_TopBar.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\Navigation\\_TopBar.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\Navigation\\_TopBar.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\Navigation\\_TopBar.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\Navigation\\_TopBar.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswEAAAADgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:32:08.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\AppDbContext.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\AppDbContext.cs",
+              "RelativeToolTip": "KSocial.Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:10:02.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostsService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\PostsService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\PostsService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\PostsService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\PostsService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:16:09.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\AdminService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\AdminService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\AdminService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:09:17.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KSocial\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KSocial\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:04:00.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StoriesService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\StoriesService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\StoriesService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\StoriesService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\StoriesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:16:44.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotificationsService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\NotificationsService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\NotificationsService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\NotificationsService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\NotificationsService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:15:32.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Authentication\\Login.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Authentication\\Login.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Authentication\\Login.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Authentication\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:36:41.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250829081238_InitialCreate.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Migrations\\20250829081238_InitialCreate.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Migrations\\20250829081238_InitialCreate.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Migrations\\20250829081238_InitialCreate.cs",
+              "RelativeToolTip": "KSocial.Data\\Migrations\\20250829081238_InitialCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T01:16:02.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FilesService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\FilesService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\FilesService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\FilesService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\FilesService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:11:57.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KSocial\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\KSocial\\KSocial\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KSocial\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T21:25:42.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:05:39.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250829080732_SecondTry.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\OneDrive\\Documents\\KSocial\\KSocial.Data\\Migrations\\20250829080732_SecondTry.cs",
+              "ToolTip": "C:\\Users\\AD\\OneDrive\\Documents\\KSocial\\KSocial.Data\\Migrations\\20250829080732_SecondTry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:07:33.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:30:50.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\appsettings.json",
+              "RelativeDocumentMoniker": "KSocial\\appsettings.json",
+              "ToolTip": "D:\\KSocial\\KSocial\\appsettings.json",
+              "RelativeToolTip": "KSocial\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T08:02:38.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Settings\\Index.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Settings\\Index.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Settings\\Index.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Settings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:18:42.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HashtagsViewComponent.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\ViewComponents\\HashtagsViewComponent.cs",
+              "RelativeDocumentMoniker": "KSocial\\ViewComponents\\HashtagsViewComponent.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\ViewComponents\\HashtagsViewComponent.cs",
+              "RelativeToolTip": "KSocial\\ViewComponents\\HashtagsViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:12:48.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\ViewModels\\Authentication\\LoginVM.cs",
+              "RelativeDocumentMoniker": "KSocial\\ViewModels\\Authentication\\LoginVM.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\ViewModels\\Authentication\\LoginVM.cs",
+              "RelativeToolTip": "KSocial\\ViewModels\\Authentication\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:22:51.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Hubs\\NotificationHub.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "KSocial.Data\\Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:02:50.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Friends\\Index.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Friends\\Index.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Friends\\Index.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Friends\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:07:36.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Post.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\Home\\_Post.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\Home\\_Post.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\Home\\_Post.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\Home\\_Post.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAIYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:27:59.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\Components\\Stories\\Default.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\Components\\Stories\\Default.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\Components\\Stories\\Default.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\Components\\Stories\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:21:49.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "5d7932ea-8641-44f8-b3d8-4a9f578e5c40.JPG",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\wwwroot\\uploads\\stories\\5d7932ea-8641-44f8-b3d8-4a9f578e5c40.JPG",
+              "RelativeDocumentMoniker": "KSocial\\wwwroot\\uploads\\stories\\5d7932ea-8641-44f8-b3d8-4a9f578e5c40.JPG",
+              "ToolTip": "D:\\KSocial\\KSocial\\wwwroot\\uploads\\stories\\5d7932ea-8641-44f8-b3d8-4a9f578e5c40.JPG",
+              "RelativeToolTip": "KSocial\\wwwroot\\uploads\\stories\\5d7932ea-8641-44f8-b3d8-4a9f578e5c40.JPG",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-04T21:16:44.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_PostDeleteConfirmation.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\Home\\_PostDeleteConfirmation.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\Home\\_PostDeleteConfirmation.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\Home\\_PostDeleteConfirmation.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\Home\\_PostDeleteConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:28:35.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Notifications.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\Notifications\\_Notifications.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\Notifications\\_Notifications.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\Notifications\\_Notifications.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\Notifications\\_Notifications.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAD4AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:43:02.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Favorites\\Index.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Favorites\\Index.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Favorites\\Index.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Favorites\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:07:15.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T13:37:48.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "1dfdf3f4-de1d-48a3-9f09-140692b3b89d.jpg",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\wwwroot\\uploads\\stories\\1dfdf3f4-de1d-48a3-9f09-140692b3b89d.jpg",
+              "RelativeDocumentMoniker": "KSocial\\wwwroot\\uploads\\stories\\1dfdf3f4-de1d-48a3-9f09-140692b3b89d.jpg",
+              "ToolTip": "D:\\KSocial\\KSocial\\wwwroot\\uploads\\stories\\1dfdf3f4-de1d-48a3-9f09-140692b3b89d.jpg",
+              "RelativeToolTip": "KSocial\\wwwroot\\uploads\\stories\\1dfdf3f4-de1d-48a3-9f09-140692b3b89d.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-04T21:16:42.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "db1ecdd4-ea2c-4b64-a5b9-062e836b4d61.JPG",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\wwwroot\\uploads\\profiles\\db1ecdd4-ea2c-4b64-a5b9-062e836b4d61.JPG",
+              "RelativeDocumentMoniker": "KSocial\\wwwroot\\uploads\\profiles\\db1ecdd4-ea2c-4b64-a5b9-062e836b4d61.JPG",
+              "ToolTip": "D:\\KSocial\\KSocial\\wwwroot\\uploads\\profiles\\db1ecdd4-ea2c-4b64-a5b9-062e836b4d61.JPG",
+              "RelativeToolTip": "KSocial\\wwwroot\\uploads\\profiles\\db1ecdd4-ea2c-4b64-a5b9-062e836b4d61.JPG",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-04T21:16:38.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "c4be08de-1c3e-486e-a977-e0ee27e23aa5.jpg",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\wwwroot\\uploads\\profiles\\c4be08de-1c3e-486e-a977-e0ee27e23aa5.jpg",
+              "RelativeDocumentMoniker": "KSocial\\wwwroot\\uploads\\profiles\\c4be08de-1c3e-486e-a977-e0ee27e23aa5.jpg",
+              "ToolTip": "D:\\KSocial\\KSocial\\wwwroot\\uploads\\profiles\\c4be08de-1c3e-486e-a977-e0ee27e23aa5.jpg",
+              "RelativeToolTip": "KSocial\\wwwroot\\uploads\\profiles\\c4be08de-1c3e-486e-a977-e0ee27e23aa5.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-04T21:16:36.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "5b406a57-d15b-4db2-8f30-bc7a2b5e83f2.jpg",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\wwwroot\\uploads\\posts\\5b406a57-d15b-4db2-8f30-bc7a2b5e83f2.jpg",
+              "RelativeDocumentMoniker": "KSocial\\wwwroot\\uploads\\posts\\5b406a57-d15b-4db2-8f30-bc7a2b5e83f2.jpg",
+              "ToolTip": "D:\\KSocial\\KSocial\\wwwroot\\uploads\\posts\\5b406a57-d15b-4db2-8f30-bc7a2b5e83f2.jpg",
+              "RelativeToolTip": "KSocial\\wwwroot\\uploads\\posts\\5b406a57-d15b-4db2-8f30-bc7a2b5e83f2.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-04T21:16:22.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HashtagsService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\HashtagsService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\HashtagsService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\HashtagsService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\HashtagsService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:15:00.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetNotificationDto.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Dtos\\GetNotificationDto.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Dtos\\GetNotificationDto.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Dtos\\GetNotificationDto.cs",
+              "RelativeToolTip": "KSocial.Data\\Dtos\\GetNotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:01:23.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserWithFriendsCountDto.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Dtos\\UserWithFriendsCountDto.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Dtos\\UserWithFriendsCountDto.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Dtos\\UserWithFriendsCountDto.cs",
+              "RelativeToolTip": "KSocial.Data\\Dtos\\UserWithFriendsCountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:02:20.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "KSocial\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "KSocial\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:02:30.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T13:19:12.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Users\\Details.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAArwE0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T15:26:21.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StoriesController.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Controllers\\StoriesController.cs",
+              "RelativeDocumentMoniker": "KSocial\\Controllers\\StoriesController.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\Controllers\\StoriesController.cs",
+              "RelativeToolTip": "KSocial\\Controllers\\StoriesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:10:11.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "StoriesViewComponent.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\ViewComponents\\StoriesViewComponent.cs",
+              "RelativeDocumentMoniker": "KSocial\\ViewComponents\\StoriesViewComponent.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\ViewComponents\\StoriesViewComponent.cs",
+              "RelativeToolTip": "KSocial\\ViewComponents\\StoriesViewComponent.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:14:00.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SuggestedFriendsViewComponent.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\ViewComponents\\SuggestedFriendsViewComponent.cs",
+              "RelativeDocumentMoniker": "KSocial\\ViewComponents\\SuggestedFriendsViewComponent.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\ViewComponents\\SuggestedFriendsViewComponent.cs",
+              "RelativeToolTip": "KSocial\\ViewComponents\\SuggestedFriendsViewComponent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:14:42.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "tailwind.css",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\wwwroot\\css\\tailwind.css",
+              "RelativeDocumentMoniker": "KSocial\\wwwroot\\css\\tailwind.css",
+              "ToolTip": "D:\\KSocial\\KSocial\\wwwroot\\css\\tailwind.css",
+              "RelativeToolTip": "KSocial\\wwwroot\\css\\tailwind.css",
+              "ViewState": "AgIAAGAgAAAAAAAAAAAIwHIgAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-04T13:34:27.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "KSocial\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\KSocial\\KSocial\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "KSocial\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-04T13:34:03.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "KSocial\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\KSocial\\KSocial\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "KSocial\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-04T13:23:39.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "KSocial\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\KSocial\\KSocial\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "KSocial\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-04T13:34:41.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "KSocial\\wwwroot\\js\\script.js",
+              "ToolTip": "D:\\KSocial\\KSocial\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "KSocial\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-04T13:35:08.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T13:38:27.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "KSocial\\Controllers\\FavoritesController.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\Controllers\\FavoritesController.cs",
+              "RelativeToolTip": "KSocial\\Controllers\\FavoritesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:05:23.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FriendsController.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Controllers\\FriendsController.cs",
+              "RelativeDocumentMoniker": "KSocial\\Controllers\\FriendsController.cs",
+              "ToolTip": "D:\\KSocial\\KSocial\\Controllers\\FriendsController.cs",
+              "RelativeToolTip": "KSocial\\Controllers\\FriendsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:04:51.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAKoTAAAAAAAAAAArwMYTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-04T15:46:24.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_CreateStatus.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\Modals\\_CreateStatus.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\Modals\\_CreateStatus.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\Modals\\_CreateStatus.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\Modals\\_CreateStatus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:30:29.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_TopBarAdmin.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\Navigation\\_TopBarAdmin.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\Navigation\\_TopBarAdmin.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\Navigation\\_TopBarAdmin.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\Navigation\\_TopBarAdmin.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:32:34.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_CreateStory.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\Modals\\_CreateStory.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\Modals\\_CreateStory.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\Modals\\_CreateStory.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\Modals\\_CreateStory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:31:15.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\Navigation\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\Navigation\\_SideBar.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\Navigation\\_SideBar.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\Navigation\\_SideBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:31:50.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Authentication\\Register.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Authentication\\Register.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Authentication\\Register.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Authentication\\Register.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:36:59.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\Components\\SuggestedFriends\\Default.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\Components\\SuggestedFriends\\Default.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\Components\\SuggestedFriends\\Default.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\Components\\SuggestedFriends\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:22:02.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Shared\\Components\\Hashtags\\Default.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Shared\\Components\\Hashtags\\Default.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Shared\\Components\\Hashtags\\Default.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Shared\\Components\\Hashtags\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:21:09.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IFriendsService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IFriendsService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\Interfaces\\IFriendsService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IFriendsService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\Interfaces\\IFriendsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:05:28.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FriendsService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\FriendsService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\FriendsService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\FriendsService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\FriendsService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:14:15.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FriendshipStatus.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Helpers\\Constants\\FriendshipStatus.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Helpers\\Constants\\FriendshipStatus.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Helpers\\Constants\\FriendshipStatus.cs",
+              "RelativeToolTip": "KSocial.Data\\Helpers\\Constants\\FriendshipStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:55:44.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:02:41.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KSocial\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\KSocial\\KSocial\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "KSocial\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T13:38:26.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "postcss.config.js",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\postcss.config.js",
+              "RelativeDocumentMoniker": "KSocial\\postcss.config.js",
+              "ToolTip": "D:\\KSocial\\KSocial\\postcss.config.js",
+              "RelativeToolTip": "KSocial\\postcss.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-04T13:36:56.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "uikit.min.js",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\wwwroot\\js\\uikit.min.js",
+              "RelativeDocumentMoniker": "KSocial\\wwwroot\\js\\uikit.min.js",
+              "ToolTip": "D:\\KSocial\\KSocial\\wwwroot\\js\\uikit.min.js",
+              "RelativeToolTip": "KSocial\\wwwroot\\js\\uikit.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-04T13:36:34.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "KSocial\\wwwroot\\favicon.ico",
+              "ToolTip": "D:\\KSocial\\KSocial\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "KSocial\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-06-04T13:36:31.953Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\tailwind.config.js",
+              "RelativeDocumentMoniker": "KSocial\\tailwind.config.js",
+              "ToolTip": "D:\\KSocial\\KSocial\\tailwind.config.js",
+              "RelativeToolTip": "KSocial\\tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-04T13:16:43.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\package.json",
+              "RelativeDocumentMoniker": "KSocial\\package.json",
+              "ToolTip": "D:\\KSocial\\KSocial\\package.json",
+              "RelativeToolTip": "KSocial\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T13:18:25.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\package-lock.json",
+              "RelativeDocumentMoniker": "KSocial\\package-lock.json",
+              "ToolTip": "D:\\KSocial\\KSocial\\package-lock.json",
+              "RelativeToolTip": "KSocial\\package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T13:15:43.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KSocial.csproj.user",
+              "DocumentMoniker": "D:\\KSocial\\KSocial\\KSocial.csproj.user",
+              "RelativeDocumentMoniker": "KSocial\\KSocial.csproj.user",
+              "ToolTip": "D:\\KSocial\\KSocial\\KSocial.csproj.user",
+              "RelativeToolTip": "KSocial\\KSocial.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-06-04T13:15:41.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Helpers\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Helpers\\DbInitializer.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Helpers\\DbInitializer.cs",
+              "RelativeToolTip": "KSocial.Data\\Helpers\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:57:48.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CustomClaim.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Helpers\\Constants\\CustomClaim.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Helpers\\Constants\\CustomClaim.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Helpers\\Constants\\CustomClaim.cs",
+              "RelativeToolTip": "KSocial.Data\\Helpers\\Constants\\CustomClaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:55:26.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AppRoles.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Helpers\\Constants\\AppRoles.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Helpers\\Constants\\AppRoles.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Helpers\\Constants\\AppRoles.cs",
+              "RelativeToolTip": "KSocial.Data\\Helpers\\Constants\\AppRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:55:03.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "NotificationType.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Helpers\\Constants\\NotificationType.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Helpers\\Constants\\NotificationType.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Helpers\\Constants\\NotificationType.cs",
+              "RelativeToolTip": "KSocial.Data\\Helpers\\Constants\\NotificationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:56:00.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "KSocial.Data.csproj",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\KSocial.Data.csproj",
+              "RelativeDocumentMoniker": "KSocial.Data\\KSocial.Data.csproj",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\KSocial.Data.csproj",
+              "RelativeToolTip": "KSocial.Data\\KSocial.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T11:33:53.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250604110933_InitialCreate.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Migrations\\20250604110933_InitialCreate.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Migrations\\20250604110933_InitialCreate.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Migrations\\20250604110933_InitialCreate.cs",
+              "RelativeToolTip": "KSocial.Data\\Migrations\\20250604110933_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:09:33.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\UsersService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\UsersService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\UsersService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:17:14.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IUsersService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\Interfaces\\IUsersService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IUsersService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\Interfaces\\IUsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:08:37.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IStoriesService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IStoriesService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\Interfaces\\IStoriesService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IStoriesService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\Interfaces\\IStoriesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:08:09.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IPostsService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IPostsService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\Interfaces\\IPostsService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IPostsService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\Interfaces\\IPostsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:07:14.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ImageFileType.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Helpers\\Enums\\ImageFileType.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Helpers\\Enums\\ImageFileType.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Helpers\\Enums\\ImageFileType.cs",
+              "RelativeToolTip": "KSocial.Data\\Helpers\\Enums\\ImageFileType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:56:44.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "INotificationsService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\INotificationsService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\Interfaces\\INotificationsService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\INotificationsService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\Interfaces\\INotificationsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:06:52.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IHashtagsService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IHashtagsService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\Interfaces\\IHashtagsService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IHashtagsService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\Interfaces\\IHashtagsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:06:30.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IFilesService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IFilesService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\Interfaces\\IFilesService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IFilesService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\Interfaces\\IFilesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:05:08.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Services\\Interfaces\\IAdminService.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Services\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "KSocial.Data\\Services\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:04:38.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "HashtagHelper.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Helpers\\HashtagHelper.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Helpers\\HashtagHelper.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Helpers\\HashtagHelper.cs",
+              "RelativeToolTip": "KSocial.Data\\Helpers\\HashtagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:57:18.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Models\\Comment.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Models\\Comment.cs",
+              "RelativeToolTip": "KSocial.Data\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:53:58.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Models\\Favorite.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Models\\Favorite.cs",
+              "RelativeToolTip": "KSocial.Data\\Models\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:53:41.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "FriendRequest.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Models\\FriendRequest.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Models\\FriendRequest.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Models\\FriendRequest.cs",
+              "RelativeToolTip": "KSocial.Data\\Models\\FriendRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:53:26.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Friendship.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Models\\Friendship.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Models\\Friendship.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Models\\Friendship.cs",
+              "RelativeToolTip": "KSocial.Data\\Models\\Friendship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:53:03.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Hashtag.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Models\\Hashtag.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Models\\Hashtag.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Models\\Hashtag.cs",
+              "RelativeToolTip": "KSocial.Data\\Models\\Hashtag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:52:42.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Like.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Models\\Like.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Models\\Like.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Models\\Like.cs",
+              "RelativeToolTip": "KSocial.Data\\Models\\Like.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:52:28.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Models\\Post.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Models\\Post.cs",
+              "RelativeToolTip": "KSocial.Data\\Models\\Post.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:51:50.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Models\\Report.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Models\\Report.cs",
+              "RelativeToolTip": "KSocial.Data\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:51:17.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Story.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Models\\Story.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Models\\Story.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Models\\Story.cs",
+              "RelativeToolTip": "KSocial.Data\\Models\\Story.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:50:55.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\KSocial\\KSocial.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "KSocial.Data\\Models\\User.cs",
+              "ToolTip": "D:\\KSocial\\KSocial.Data\\Models\\User.cs",
+              "RelativeToolTip": "KSocial.Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:46:51.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

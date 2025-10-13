@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSocial.Data", "KSocial.Data\KSocial.Data.csproj", "{A1DF026A-C487-4DA4-935E-7266CC611CE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSocial", "KSocial\KSocial.csproj", "{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1DF026A-C487-4DA4-935E-7266CC611CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DF026A-C487-4DA4-935E-7266CC611CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DF026A-C487-4DA4-935E-7266CC611CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DF026A-C487-4DA4-935E-7266CC611CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E66510-FA5B-44D1-A905-7839B3EA4FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11ECEA71-3054-4AD0-818E-B6DA6BA8A6B4}
+	EndGlobalSection
+EndGlobal
